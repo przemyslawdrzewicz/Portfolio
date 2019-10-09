@@ -233,7 +233,7 @@ $(header).hide().show(1500);
 
 var t_url = ["img/snakepic.png", "img/robot.png", "img/portfolio.png", "img/cms.png", "img/react.png", "img/pacman.png"];
 
-var t_gitLinks = ["https://github.com/przemyslawdrzewicz/SnakeC-", "https://github.com/przemyslawdrzewicz/BluetoothCommunication", "https://github.com/przemyslawdrzewicz/cms", "https://github.com/przemyslawdrzewicz/cms", "https://github.com/przemyslawdrzewicz/BookReact", "https://github.com/przemyslawdrzewicz/Pacman"];
+var t_gitLinks = ["https://github.com/przemyslawdrzewicz/SnakeC-", "https://github.com/przemyslawdrzewicz/BluetoothCommunication", "https://github.com/przemyslawdrzewicz/Portfolio", "https://github.com/przemyslawdrzewicz/cms", "https://github.com/przemyslawdrzewicz/BookReact", "https://github.com/przemyslawdrzewicz/Pacman"];
 
 var del = 1500;
 for(var i =0;i<6;i++)
